@@ -1,1 +1,1 @@
-# Capítulo 2 - Executando código
+# Capítulo 2 - Testes de integração
