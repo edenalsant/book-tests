@@ -1,4 +1,4 @@
-* [<span class="iconify" data-icon="mdi-home"></span> Home](/livro/home.md)
+* [<span class="iconify" data-icon="mdi-home"></span> Home](/docs/home.md)
 * <span class="iconify" data-icon="mdi-file-table"></span> Notas de Aula
     * [Aula 1](/todo)
     * [Aula 2](/todo)
