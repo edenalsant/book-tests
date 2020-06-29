@@ -1,4 +1,4 @@
-# Livro testes {docsify-ignore-all}
+# Livro testes
 
 ## Sobre o livro
 
