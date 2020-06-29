@@ -8,7 +8,5 @@ Mauris nunc congue nisi vitae suscipit. Feugiat scelerisque varius morbi enim. M
 
 ## Sobre o Centro de Informática da UFPE 
 
-[![](http://img.youtube.com/vi/dhh9zcA6Xwk/0.jpg)](http://www.youtube.com/watch?v=dhh9zcA6Xwk "")
+[![Conheça o CIn](https://res.cloudinary.com/marcomontalbano/image/upload/v1593400899/video_to_markdown/images/youtube--dhh9zcA6Xwk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dhh9zcA6Xwk "Conheça o CIn")
 
-
-<a class="twitter-timeline" data-width="500" data-height="1000" href="https://twitter.com/CInUFPE?ref_src=twsrc%5Etfw">Tweets by CInUFPE</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
